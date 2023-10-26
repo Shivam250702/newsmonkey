@@ -23,7 +23,7 @@ const Navbar = () => {
         <nav className={`navbar navbar-expand-lg ${mode==='light'?'navbar-dark bg-dark':'navbar-light bg-light'}`}>
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">
-            NewsMonkey
+            NewsBlaze
           </Link>
           <button
             className="navbar-toggler"
